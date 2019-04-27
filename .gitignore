@@ -1,2 +1,5 @@
 # Sample bucket content
 img/*
+
+# generated itemlist
+item_list.yml

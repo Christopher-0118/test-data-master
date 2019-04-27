@@ -1,0 +1,6399 @@
+[
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (1).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (1).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 0,
+    "labels": [
+      {
+        "id": 0,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 382.1094559914696,
+          "x2": 746.7283396621564,
+          "y1": 774.5547538852945,
+          "y2": 1015.6415567495192
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 263,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 991.6631578947369,
+          "x2": 1099.4526315789474,
+          "y1": 835.3684210526316,
+          "y2": 921.6
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (10).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (10).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 1,
+    "labels": [
+      {
+        "id": 1,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 802.5170213166876,
+          "x2": 860.2981558874523,
+          "y1": 479.671722282772,
+          "y2": 543.4302156022363
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 2,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 198.80378769800961,
+          "x2": 368.16228557783677,
+          "y1": 485.6490810314718,
+          "y2": 577.3019151782017
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (100).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (100).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 2,
+    "labels": [
+      {
+        "id": 3,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 884.7023297760342,
+          "x2": 925.0677071029749,
+          "y1": 979.6700639247422,
+          "y2": 1012.6962817376935
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 4,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1183.1614833449287,
+          "x2": 1358.078118428338,
+          "y1": 824.3245208786373,
+          "y2": 971.1077111584215
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (11).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (11).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 3,
+    "labels": [
+      {
+        "id": 5,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 392.0717205726359,
+          "x2": 463.80002555703334,
+          "y1": 497.6037985288713,
+          "y2": 561.3622918483356
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (12).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (12).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 4,
+    "labels": [
+      {
+        "id": 6,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 565.4151242849296,
+          "x2": 700.9019225887913,
+          "y1": 509.5585160262709,
+          "y2": 595.233991424301
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 7,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 820.449097562787,
+          "x2": 872.2528733848518,
+          "y1": 471.70191061783896,
+          "y2": 535.4604039373033
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (13).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (13).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 5,
+    "labels": [
+      {
+        "id": 8,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 818.4566446465537,
+          "x2": 892.1774025471843,
+          "y1": 469.7094577016057,
+          "y2": 567.3396505970354
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 9,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 665.0377700965927,
+          "x2": 748.7207925783896,
+          "y1": 523.5056864399037,
+          "y2": 585.2717268431348
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 10,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 593.3094651121953,
+          "x2": 639.1358821855603,
+          "y1": 519.5207806074372,
+          "y2": 563.354744764569
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 11,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1123.3019408302425,
+          "x2": 1262.7736449665708,
+          "y1": 399.97360563344154,
+          "y2": 503.5811572775711
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (14).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (14).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 6,
+    "labels": [
+      {
+        "id": 12,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1193.0377928984067,
+          "x2": 1242.8491158042382,
+          "y1": 439.8226639581068,
+          "y2": 501.5887043613379
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 13,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 828.5422625440998,
+          "x2": 882.3954351832573,
+          "y1": 482.27474444172765,
+          "y2": 567.1619487712471
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (15).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (15).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 7,
+    "labels": [
+      {
+        "id": 14,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 282.4868101798066,
+          "x2": 583.347200531029,
+          "y1": 479.671722282772,
+          "y2": 680.9094668223313
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 15,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 820.449097562787,
+          "x2": 892.1774025471843,
+          "y1": 467.7170047853724,
+          "y2": 561.3622918483356
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 16,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1113.3396762490763,
+          "x2": 1165.1434520711412,
+          "y1": 423.8830406282407,
+          "y2": 477.67926936653873
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (16).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (16).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 8,
+    "labels": [
+      {
+        "id": 17,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1111.347223332843,
+          "x2": 1370.366102443167,
+          "y1": 854.252870534625,
+          "y2": 945.905704681355
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (17).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (17).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 9,
+    "labels": [
+      {
+        "id": 18,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1495.8906361658624,
+          "x2": 1683.1812102917888,
+          "y1": 852.2604176183918,
+          "y2": 991.73212175472
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 19,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1657.2793223807566,
+          "x2": 1754.9095152761863,
+          "y1": 844.2906059534587,
+          "y2": 923.9887226027892
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 20,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 643.1207880180268,
+          "x2": 716.8415459186574,
+          "y1": 778.5396597177611,
+          "y2": 818.3887180424263
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (18).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (18).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 10,
+    "labels": [
+      {
+        "id": 21,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 158.9547293733444,
+          "x2": 605.2641826095949,
+          "y1": 814.4038122099598,
+          "y2": 1087.3698617339164
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 22,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 392.85847685025806,
+          "x2": 439.82026892287934,
+          "y1": 791.3829670110956,
+          "y2": 810.5510454080838
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 23,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1058.9492011456005,
+          "x2": 1092.49333834033,
+          "y1": 828.7607198852228,
+          "y2": 859.429645320404
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (19).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (19).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 11,
+    "labels": [
+      {
+        "id": 24,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": true
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 0,
+          "x2": 493.68681930053225,
+          "y1": 794.4792830476272,
+          "y2": 1294.5849650221755
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (2).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (2).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 12,
+    "labels": [
+      {
+        "id": 25,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 93.2037831376468,
+          "x2": 164.93208812204418,
+          "y1": 700.8339959846639,
+          "y2": 929.9660813514889
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 26,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1111.347223332843,
+          "x2": 1191.0453399821736,
+          "y1": 908.0490992729231,
+          "y2": 965.8302338436877
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (20).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (20).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 13,
+    "labels": [
+      {
+        "id": 27,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 278.50190434734003,
+          "x2": 724.8113575835905,
+          "y1": 686.8868255710311,
+          "y2": 1035.5660859118518
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 28,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 852.3283442225191,
+          "x2": 906.1245729608172,
+          "y1": 836.3207942885257,
+          "y2": 884.1573197622108
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 29,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1106.9434741487607,
+          "x2": 1121.9281091450919,
+          "y1": 832.3922170476126,
+          "y2": 856.2314090872302
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (21).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (21).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 14,
+    "labels": [
+      {
+        "id": 30,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1089.824464958305,
+          "x2": 1110.324978152774,
+          "y1": 822.6032563357259,
+          "y2": 845.4692133603261
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (22).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (22).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 15,
+    "labels": [
+      {
+        "id": 31,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 980.9982173079134,
+          "x2": 1015.735325708499,
+          "y1": 833.6306128547906,
+          "y2": 859.5131642120897
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (23).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (23).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 16,
+    "labels": [
+      {
+        "id": 32,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1196.1701643541867,
+          "x2": 1238.399590252938,
+          "y1": 831.2157223232801,
+          "y2": 850.2870759549742
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (24).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (24).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 17,
+    "labels": [
+      {
+        "id": 33,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 811.1214344787137,
+          "x2": 892.256157852209,
+          "y1": 845.2184359855171,
+          "y2": 901.5159991426362
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (25).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (25).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 18,
+    "labels": [
+      {
+        "id": 34,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1189.0846825712204,
+          "x2": 1246.5889177621852,
+          "y1": 795.5193207125388,
+          "y2": 852.1107902655518
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 35,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1060.3847276200136,
+          "x2": 1078.6400403790499,
+          "y1": 811.0363365577198,
+          "y2": 840.2448369721782
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (26).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (26).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 19,
+    "labels": [
+      {
+        "id": 36,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 934.0189137880828,
+          "x2": 1153.1887345737416,
+          "y1": 902.0717405242233,
+          "y2": 1099.3245792313162
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 37,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 537.7936022035775,
+          "x2": 893.5593596442044,
+          "y1": 979.2643417573654,
+          "y2": 1293.9308059196528
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (27).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (27).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 20,
+    "labels": [
+      {
+        "id": 38,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1574.7511988713266,
+          "x2": 1659.1975436070054,
+          "y1": 819.553370428595,
+          "y2": 892.4090403966317
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 39,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1410.8259414432441,
+          "x2": 1443.942155065079,
+          "y1": 831.9719505367831,
+          "y2": 865.0881641586179
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 40,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1638.4999100933587,
+          "x2": 1828.459414988643,
+          "y1": 797.1999262338566,
+          "y2": 884.1299869911729
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (28).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (28).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 21,
+    "labels": [
+      {
+        "id": 41,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1051.0989643915764,
+          "x2": 1193.2223708529546,
+          "y1": 886.1035480868059,
+          "y2": 1020.072332865974
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 42,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1519.407238141364,
+          "x2": 1755.8912669254605,
+          "y1": 919.8869807702483,
+          "y2": 1011.9177111837638
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (29).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (29).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 22,
+    "labels": [
+      {
+        "id": 43,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 577.8420684052032,
+          "x2": 825.7221809901887,
+          "y1": 923.3366280952342,
+          "y2": 1011.956979226654
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 44,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1583.4904008095746,
+          "x2": 1702.9352218997487,
+          "y1": 814.1666303246448,
+          "y2": 882.2373348168946
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (3).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (3).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 23,
+    "labels": [
+      {
+        "id": 45,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1214.9076605507153,
+          "x2": 1332.6475821042156,
+          "y1": 777.2509900124246,
+          "y2": 884.9276704075063
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 46,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 612.1195151614265,
+          "x2": 822.4412553723804,
+          "y1": 874.8644292490874,
+          "y2": 1031.8509913204214
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 47,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 375.6333479385837,
+          "x2": 470.22781482772086,
+          "y1": 891.9719392183995,
+          "y2": 938.2628485471262
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 48,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 969.3645762852955,
+          "x2": 1021.6934303090735,
+          "y1": 899.0162080292927,
+          "y2": 943.2944691263356
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (30).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (30).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 24,
+    "labels": [
+      {
+        "id": 49,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 988.6311065562251,
+          "x2": 1175.6564434854392,
+          "y1": 855.4974148410679,
+          "y2": 1052.032514664988
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (31).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (31).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 25,
+    "labels": [
+      {
+        "id": 50,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 633.1585234368605,
+          "x2": 842.3660796413528,
+          "y1": 953.875516346288,
+          "y2": 1127.2189200585817
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (32).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (32).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 26,
+    "labels": [
+      {
+        "id": 51,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1672.6945469389098,
+          "x2": 1780.580191794551,
+          "y1": 755.3199220752659,
+          "y2": 855.4994494412186
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (33).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (33).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 27,
+    "labels": [
+      {
+        "id": 52,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1140.114907043063,
+          "x2": 1261.6285440309705,
+          "y1": 825.4312123688121,
+          "y2": 887.7729913452168
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 53,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1528.9585454043672,
+          "x2": 1563.8276760182885,
+          "y1": 796.9979525811127,
+          "y2": 826.5838815868641
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (34).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (34).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 28,
+    "labels": [
+      {
+        "id": 54,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1396.5709276716555,
+          "x2": 1433.9508537973013,
+          "y1": 912.2939532349444,
+          "y2": 951.4124805757368
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (35).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (35).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 29,
+    "labels": [
+      {
+        "id": 55,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1639.347246134657,
+          "x2": 1742.9547977787868,
+          "y1": 820.3811709586596,
+          "y2": 898.0868346917567
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 56,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 25.460383985715932,
+          "x2": 427.9358730648346,
+          "y1": 1051.5057092417178,
+          "y2": 1169.0604312994801
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (36).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (36).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 30,
+    "labels": [
+      {
+        "id": 58,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1412.2076136840656,
+          "x2": 1467.9962953385968,
+          "y1": 800.456641796327,
+          "y2": 866.2075880320245
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 59,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1069.5057120919446,
+          "x2": 1089.4302412542772,
+          "y1": 794.4792830476272,
+          "y2": 830.3434355398259
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (37).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (37).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 31,
+    "labels": [
+      {
+        "id": 60,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1443.809825914799,
+          "x2": 1467.4106260340204,
+          "y1": 877.0025232187232,
+          "y2": 914.9068385617152
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (38).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (38).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 32,
+    "labels": [
+      {
+        "id": 61,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1053.5660887620786,
+          "x2": 1272.7359095477373,
+          "y1": 894.1019288592902,
+          "y2": 1039.5509917443183
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (39).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (39).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 33,
+    "labels": [
+      {
+        "id": 62,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1410.6646622758506,
+          "x2": 1443.7808758976853,
+          "y1": 881.7393520890024,
+          "y2": 914.0670844341269
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (4).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (4).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 34,
+    "labels": [
+      {
+        "id": 63,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 0,
+          "x2": 753.2281563250363,
+          "y1": 420.26442673916466,
+          "y2": 1199.1734579378362
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (40).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (40).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 35,
+    "labels": [
+      {
+        "id": 64,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 842.3660796413528,
+          "x2": 1137.2491112438754,
+          "y1": 967.8226867599209,
+          "y2": 1183.007601713113
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (41).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (41).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 36,
+    "labels": [
+      {
+        "id": 65,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1687.1661161242555,
+          "x2": 1800.7359323495514,
+          "y1": 800.456641796327,
+          "y2": 985.7547630060202
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (42).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (42).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 37,
+    "labels": [
+      {
+        "id": 66,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1762.8793269411194,
+          "x2": 1880.4340489988817,
+          "y1": 786.5094713826942,
+          "y2": 914.0264580216228
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (43).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (43).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 38,
+    "labels": [
+      {
+        "id": 67,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1325.1494472717561,
+          "x2": 1367.3788731705072,
+          "y1": 851.2777842862663,
+          "y2": 874.4358565533234
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (44).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (44).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 39,
+    "labels": [
+      {
+        "id": 68,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1469.98874825483,
+          "x2": 1567.6189411502598,
+          "y1": 912.0340051053896,
+          "y2": 967.8226867599209
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 69,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 752.7056984108561,
+          "x2": 1041.6113712646788,
+          "y1": 951.8830634300548,
+          "y2": 1202.9321308754456
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 70,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 868.2679675523852,
+          "x2": 957.928348782882,
+          "y1": 894.1019288592902,
+          "y2": 951.8830634300548
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (45).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (45).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 40,
+    "labels": [
+      {
+        "id": 71,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1324.3545514544098,
+          "x2": 1645.5732092311393,
+          "y1": 886.7163187774794,
+          "y2": 1058.9486912038178
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 72,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1125.7061709872219,
+          "x2": 1236.6534047587897,
+          "y1": 920.5288090697667,
+          "y2": 999.776833192315
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (46).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (46).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 41,
+    "labels": [
+      {
+        "id": 73,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 549.4755009550636,
+          "x2": 941.988725453016,
+          "y1": 812.4113592937265,
+          "y2": 985.7547630060202
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 74,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1095.407600002977,
+          "x2": 1310.5925149561692,
+          "y1": 800.456641796327,
+          "y2": 967.8226867599209
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 75,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1272.7359095477373,
+          "x2": 2046.2491449715587,
+          "y1": 816.396265126193,
+          "y2": 1534.1887454996108
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (47).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (47).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 42,
+    "labels": [
+      {
+        "id": 76,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 764.6604159082557,
+          "x2": 1035.634012515979,
+          "y1": 973.8000455086207,
+          "y2": 1175.03779004818
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (48).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (48).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 43,
+    "labels": [
+      {
+        "id": 77,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 276.5094514311068,
+          "x2": 435.90568472976764,
+          "y1": 1009.6641980008194,
+          "y2": 1123.2340142261153
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 78,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 583.347200531029,
+          "x2": 635.1509763530937,
+          "y1": 1007.6717450845861,
+          "y2": 1099.3245792313162
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 79,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 790.5623038192881,
+          "x2": 822.4415504790203,
+          "y1": 951.8830634300548,
+          "y2": 999.7019334196531
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (49).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (49).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 44,
+    "labels": [
+      {
+        "id": 80,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1049.581182929612,
+          "x2": 1324.5396853698019,
+          "y1": 971.8075925923874,
+          "y2": 1167.067978383247
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 81,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1509.8378065794952,
+          "x2": 1748.9321565274865,
+          "y1": 967.8226867599209,
+          "y2": 1135.1887317235148
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (5).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (5).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 45,
+    "labels": [
+      {
+        "id": 82,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1503.8604478307955,
+          "x2": 1732.9925331976203,
+          "y1": 898.0868346917567,
+          "y2": 1037.558538828085
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 83,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 31.437742734415714,
+          "x2": 218.72831686034223,
+          "y1": 874.1773996969577,
+          "y2": 963.8377809274543
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 84,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 595.3019180284285,
+          "x2": 653.0830525991931,
+          "y1": 894.1019288592902,
+          "y2": 935.9434401001887
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (50).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (50).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 46,
+    "labels": [
+      {
+        "id": 85,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1503.8604478307955,
+          "x2": 1573.5962998989596,
+          "y1": 786.5094713826942,
+          "y2": 854.252870534625
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 86,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1302.6227032912361,
+          "x2": 1336.4944028672016,
+          "y1": 846.283058869692,
+          "y2": 910.0415521891563
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 87,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 951.9509900341822,
+          "x2": 983.8302366939143,
+          "y1": 890.1170230268237,
+          "y2": 920.0038167703226
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (51).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (51).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 47,
+    "labels": [
+      {
+        "id": 88,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 545.490595122597,
+          "x2": 800.5245684004544,
+          "y1": 973.8000455086207,
+          "y2": 1135.1887317235148
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (52).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (52).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 48,
+    "labels": [
+      {
+        "id": 90,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1233.817496665803,
+          "x2": 1278.7714016547961,
+          "y1": 897.9654600342094,
+          "y2": 923.8480113915086
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (53).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (53).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 49,
+    "labels": [
+      {
+        "id": 91,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1221.7624758097654,
+          "x2": 1304.3460335292161,
+          "y1": 769.886686543364,
+          "y2": 822.0447229977539
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (54).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (54).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 50,
+    "labels": [
+      {
+        "id": 92,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1185.9367544897534,
+          "x2": 1298.531880803992,
+          "y1": 778.9107423231009,
+          "y2": 860.8733710371421
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (55).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (55).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 51,
+    "labels": [
+      {
+        "id": 93,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 938.0038196205494,
+          "x2": 1071.498165008178,
+          "y1": 720.7585251469966,
+          "y2": 904.0641934404565
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 94,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1075.4830708406444,
+          "x2": 1258.7887391341044,
+          "y1": 798.4641888800937,
+          "y2": 888.1245701105904
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 95,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1352.4340261970676,
+          "x2": 1440.101954511331,
+          "y1": 740.6830543093291,
+          "y2": 814.4038122099598
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (56).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (56).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 52,
+    "labels": [
+      {
+        "id": 96,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 525.5660659602644,
+          "x2": 764.6604159082557,
+          "y1": 824.3660767911261,
+          "y2": 1005.6792921683528
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 97,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 967.8906133640482,
+          "x2": 1095.407600002977,
+          "y1": 716.77361931453,
+          "y2": 914.0264580216228
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 98,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 862.2906088036855,
+          "x2": 939.9962725367826,
+          "y1": 838.3132472047589,
+          "y2": 892.109475943057
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 99,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 647.1056938504933,
+          "x2": 888.1924967147179,
+          "y1": 447.7924756230398,
+          "y2": 621.1358793353335
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 100,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 896.1623083796509,
+          "x2": 1165.1434520711412,
+          "y1": 388.018888136042,
+          "y2": 633.090596832733
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (57).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (57).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 53,
+    "labels": [
+      {
+        "id": 101,
+        "category": "sign",
+        "attributes": {
+          "Occluded": true,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 957.928348782882,
+          "x2": 1141.234017076342,
+          "y1": 497.6037985288713,
+          "y2": 702.8264489008972
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 102,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1167.1359049873743,
+          "x2": 1388.2981786892663,
+          "y1": 471.70191061783896,
+          "y2": 682.9019197385646
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 103,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1021.6868421023463,
+          "x2": 1232.886851223072,
+          "y1": 670.947202241165,
+          "y2": 989.7396688384868
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (58).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (58).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 54,
+    "labels": [
+      {
+        "id": 104,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 299.7088236736335,
+          "x2": 614.2442314160281,
+          "y1": 695.8996530335421,
+          "y2": 856.6621947685438
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 105,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 643.3678802810647,
+          "x2": 726.0790430577684,
+          "y1": 775.1159779464415,
+          "y2": 833.3632756765146
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 106,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 906.645666020995,
+          "x2": 990.5217747523003,
+          "y1": 770.4561941280356,
+          "y2": 835.6931675857174
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (59).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (59).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 55,
+    "labels": [
+      {
+        "id": 107,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1267.7842046515798,
+          "x2": 1415.7905881836955,
+          "y1": 538.8757006293913,
+          "y2": 726.0242682361161
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 108,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 349.16607215059736,
+          "x2": 477.60136364540847,
+          "y1": 768.8360320677198,
+          "y2": 853.2363664785956
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 109,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 906.9421952137772,
+          "x2": 992.5657228769845,
+          "y1": 761.4968725537306,
+          "y2": 839.7812407029488
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (6).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (6).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 56,
+    "labels": [
+      {
+        "id": 110,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 41.400007315582016,
+          "x2": 202.7886935304761,
+          "y1": 890.1170230268237,
+          "y2": 965.8302338436877
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 111,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 386.09436182393614,
+          "x2": 465.79247847326656,
+          "y1": 892.109475943057,
+          "y2": 941.9207988488885
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (60).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (60).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 57,
+    "labels": [
+      {
+        "id": 112,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 883.9076991766187,
+          "x2": 934.310562346096,
+          "y1": 889.2347467288658,
+          "y2": 925.3340946745726
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 113,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 967.0043114290002,
+          "x2": 1011.9582164179934,
+          "y1": 882.4235490032609,
+          "y2": 919.204016721528
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 115,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 653.6892160511687,
+          "x2": 691.8319233145569,
+          "y1": 838.1507637868282,
+          "y2": 868.1200337794903
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 116,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1225.148705229431,
+          "x2": 1259.8858136300166,
+          "y1": 843.5997219673121,
+          "y2": 877.6557105953374
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (61).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (61).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 58,
+    "labels": [
+      {
+        "id": 117,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1097.8024815638244,
+          "x2": 1197.9790277698748,
+          "y1": 890.6026968780469,
+          "y2": 960.9746508244459
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 118,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1054.751403855439,
+          "x2": 1106.909440309829,
+          "y1": 880.6678327914964,
+          "y2": 926.2026265215193
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 119,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 953.746952308843,
+          "x2": 1004.249178082141,
+          "y1": 855.8306725751203,
+          "y2": 922.8910051593358
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 120,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 0,
+          "x2": 137.3432398169785,
+          "y1": 855.5159257419328,
+          "y2": 947.3108986670514
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (62).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (62).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 59,
+    "labels": [
+      {
+        "id": 121,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1224.9170395581389,
+          "x2": 1571.6038469827263,
+          "y1": 852.2604176183918,
+          "y2": 1057.4830679904176
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 122,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 505.6415367979318,
+          "x2": 573.3849359498627,
+          "y1": 856.2453234508582,
+          "y2": 900.0792876079901
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 123,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 947.9660842017157,
+          "x2": 1003.754765856247,
+          "y1": 858.2377763670916,
+          "y2": 910.0415521891563
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (63).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (63).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 60,
+    "labels": [
+      {
+        "id": 124,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1571.464172898573,
+          "x2": 1625.4069953263936,
+          "y1": 792.3326307705269,
+          "y2": 864.2563940076211
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 125,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1105.2440647724084,
+          "x2": 1182.3052396692951,
+          "y1": 837.2849827937108,
+          "y2": 914.3461576905975
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 126,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1032.035948620366,
+          "x2": 1057.7230069193283,
+          "y1": 865.5407469225693,
+          "y2": 886.090393561739
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (64).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (64).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 61,
+    "labels": [
+      {
+        "id": 127,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 286.4717160122731,
+          "x2": 483.7245547193659,
+          "y1": 836.3207942885257,
+          "y2": 957.8604221787546
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 129,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 657.0679584316596,
+          "x2": 692.9321109238583,
+          "y1": 808.42645346126,
+          "y2": 858.2377763670916
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 130,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 961.9132546153485,
+          "x2": 1023.6792950185796,
+          "y1": 838.3132472047589,
+          "y2": 912.0340051053896
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (65).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (65).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 62,
+    "labels": [
+      {
+        "id": 131,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1515.815165328195,
+          "x2": 2046.2491449715587,
+          "y1": 808.42645346126,
+          "y2": 1276.6528887760762
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 132,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 0,
+          "x2": 166.92454103827745,
+          "y1": 794.4792830476272,
+          "y2": 892.109475943057
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 133,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 242.63775185514135,
+          "x2": 402.03398515380223,
+          "y1": 629.1056910002666,
+          "y2": 788.5019242989274
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 134,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 828.0558570405317,
+          "x2": 861.4307258959963,
+          "y1": 841.5563626496306,
+          "y2": 874.9312315050953
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 135,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1141.3709524183632,
+          "x2": 1167.9346235482228,
+          "y1": 866.0766744618088,
+          "y2": 898.7704235447129
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 136,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1020.8127526751541,
+          "x2": 1088.2436101586438,
+          "y1": 857.9032371910828,
+          "y2": 930.1019330824961
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (66).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (66).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 63,
+    "labels": [
+      {
+        "id": 137,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1687.1661161242555,
+          "x2": 1806.7132910982511,
+          "y1": 770.5698480528281,
+          "y2": 848.2755117859252
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 138,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 848.3434383900527,
+          "x2": 1001.7623129400138,
+          "y1": 854.2528705346249,
+          "y2": 995.7170275871864
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 139,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 581.3547476147957,
+          "x2": 680.9773934264588,
+          "y1": 870.1924938644911,
+          "y2": 933.9509871839555
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 140,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 798.5321154842211,
+          "x2": 858.3057029712189,
+          "y1": 874.1773996969577,
+          "y2": 939.9283459326552
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 141,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 981.8377837776811,
+          "x2": 1041.6113712646788,
+          "y1": 872.1849467807243,
+          "y2": 937.9358930164219
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 142,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1398.2604432704327,
+          "x2": 1627.3925286372576,
+          "y1": 814.4038122099598,
+          "y2": 949.8906105138216
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (67).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (67).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 64,
+    "labels": [
+      {
+        "id": 143,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1569.611394066493,
+          "x2": 1752.917062359953,
+          "y1": 762.600036387895,
+          "y2": 862.2226821995581
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 144,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 402.03398515380223,
+          "x2": 619.2113530232276,
+          "y1": 898.0868346917567,
+          "y2": 1005.6792921683528
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 145,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 972.7799786471546,
+          "x2": 1028.3674059984207,
+          "y1": 845.9248601545107,
+          "y2": 923.5555776623132
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 146,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1226.7570174072491,
+          "x2": 1250.7171154034845,
+          "y1": 829.6319935170707,
+          "y2": 867.0097463911978
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 147,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1101.206103906976,
+          "x2": 1129.9582215024584,
+          "y1": 826.7567817575225,
+          "y2": 862.2177267919508
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (68).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (68).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 65,
+    "labels": [
+      {
+        "id": 148,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1557.6566765690934,
+          "x2": 2003.9661298053438,
+          "y1": 852.2604176183918,
+          "y2": 1063.4604267391173
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (69).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (69).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 66,
+    "labels": [
+      {
+        "id": 149,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 580.587430346062,
+          "x2": 737.0615397092315,
+          "y1": 782.1470972665378,
+          "y2": 871.5608740454918
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 150,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 766.8661319688829,
+          "x2": 853.7961927261993,
+          "y1": 773.0401385205332,
+          "y2": 837.6167550831111
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 151,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 872.0101102182084,
+          "x2": 976.3261831269881,
+          "y1": 681.9705510604874,
+          "y2": 838.4446604236571
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 152,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1026.8284089002861,
+          "x2": 1259.4698095936758,
+          "y1": 681.1426457199416,
+          "y2": 858.3143885967579
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 153,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 375.266905890686,
+          "x2": 441.49933313435565,
+          "y1": 786.2866239692672,
+          "y2": 830.1656070181983
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (7).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (7).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 67,
+    "labels": [
+      {
+        "id": 154,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1239.2028631329401,
+          "x2": 1587.3368590904481,
+          "y1": 863.1723690797082,
+          "y2": 1117.6380253177074
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 155,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 372.77072072748297,
+          "x2": 471.1224774329673,
+          "y1": 883.4671760189352,
+          "y2": 936.5459018599902
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 156,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 502.34525733947027,
+          "x2": 561.6685391618258,
+          "y1": 891.272870995561,
+          "y2": 924.0567898973891
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 157,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 610.0638480169055,
+          "x2": 658.4591568719851,
+          "y1": 877.2226200376346,
+          "y2": 914.6899559254382
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (70).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (70).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 68,
+    "labels": [
+      {
+        "id": 158,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 603.9634480949021,
+          "x2": 748.9146756376787,
+          "y1": 777.2746984177871,
+          "y2": 867.6066228285029
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 160,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 5.2518560703904535,
+          "x2": 298.30542479817774,
+          "y1": 728.9576225701949,
+          "y2": 828.7428879076135
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (71).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (71).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 69,
+    "labels": [
+      {
+        "id": 162,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 393.96325644987655,
+          "x2": 695.5153786707697,
+          "y1": 719.8340982047127,
+          "y2": 910.7360465461653
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 163,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 806.1655525502104,
+          "x2": 869.3942233384622,
+          "y1": 778.1990250861759,
+          "y2": 818.3249123171819
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 164,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1275.5168395553103,
+          "x2": 1309.5630469028304,
+          "y1": 707.6747384377412,
+          "y2": 759.9599854357186
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (72).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (72).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 70,
+    "labels": [
+      {
+        "id": 165,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1396.7372527338393,
+          "x2": 1456.3062938156418,
+          "y1": 663.8812867932446,
+          "y2": 733.6397691127237
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 166,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 819.8581180469113,
+          "x2": 924.8877431121944,
+          "y1": 761.8566833093669,
+          "y2": 832.398968800975
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 167,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1062.0532982347656,
+          "x2": 1103.5948663576014,
+          "y1": 778.3165499240755,
+          "y2": 802.6144482600738
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (73).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (73).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 71,
+    "labels": [
+      {
+        "id": 168,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 2.216966668912861,
+          "x2": 121.93316679020734,
+          "y1": 814.3657563806574,
+          "y2": 867.5729564345661
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 169,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 194.35407797469412,
+          "x2": 695.3885451490006,
+          "y1": 710.9073118313906,
+          "y2": 969.5534232045577
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (74).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (74).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 72,
+    "labels": [
+      {
+        "id": 170,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 502.67198151323805,
+          "x2": 618.8128003466217,
+          "y1": 783.9505271253388,
+          "y2": 831.1327347764009
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 171,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 820.2445330107712,
+          "x2": 897.3692955173149,
+          "y1": 763.988823888351,
+          "y2": 827.5033341878576
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 172,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1258.4946540773667,
+          "x2": 1289.3445590799843,
+          "y1": 718.6213165315605,
+          "y2": 763.988823888351
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 173,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 695.9375628531653,
+          "x2": 736.7683194742767,
+          "y1": 742.2124203570916,
+          "y2": 779.4137763896598
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (75).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (75).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 73,
+    "labels": [
+      {
+        "id": 174,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 511.74548298459615,
+          "x2": 568.0011921070163,
+          "y1": 754.0079722698571,
+          "y2": 801.1901799209191
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 175,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1155.0567373038846,
+          "x2": 1204.0536452492183,
+          "y1": 762.1741235940794,
+          "y2": 806.634280803734
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 176,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 744.934470798499,
+          "x2": 786.6725775667462,
+          "y1": 768.52557462403,
+          "y2": 808.4489810980057
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (76).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (76).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 74,
+    "labels": [
+      {
+        "id": 177,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 135.12939696230768,
+          "x2": 388.4970162666346,
+          "y1": 736.1736938675721,
+          "y2": 843.151133129399
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 178,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 501.10484706855766,
+          "x2": 571.4847413197596,
+          "y1": 702.3913446269952,
+          "y2": 764.3256515680529
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 179,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1394.929504058822,
+          "x2": 1452.6410173448076,
+          "y1": 709.4293340521153,
+          "y2": 762.9180536830288
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (77).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (77).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 75,
+    "labels": [
+      {
+        "id": 180,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 55.09162172248459,
+          "x2": 457.0276787963862,
+          "y1": 592.816887267299,
+          "y2": 819.3908808301933
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 181,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 827.9262025055078,
+          "x2": 969.1469793152571,
+          "y1": 765.0751974418282,
+          "y2": 864.3953042091244
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 182,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 415.1270087539332,
+          "x2": 646.3566323215446,
+          "y1": 603.6800239449719,
+          "y2": 757.3158141006332
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (78).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (78).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 76,
+    "labels": [
+      {
+        "id": 183,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1025.7964912280702,
+          "x2": 1200.0561403508773,
+          "y1": 652.1263157894737,
+          "y2": 846.1473684210526
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 184,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 924.1039399400654,
+          "x2": 1000.1328476365763,
+          "y1": 786.1545816453653,
+          "y2": 835.5341814894908
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 185,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 772.8299277191726,
+          "x2": 819.0743148747823,
+          "y1": 770.4785182027857,
+          "y2": 820.6419212190403
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (79).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (79).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 77,
+    "labels": [
+      {
+        "id": 186,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 333.6006987506971,
+          "x2": 430.72495281735576,
+          "y1": 567.2619476646875,
+          "y2": 670.0165932714423
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 187,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 869.8954929448557,
+          "x2": 967.0197470115144,
+          "y1": 779.8092283033172,
+          "y2": 841.7435352443749
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 188,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1013.4704772173077,
+          "x2": 1327.3648055776682,
+          "y1": 553.185968814447,
+          "y2": 867.0802971748077
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 189,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1686.302266258798,
+          "x2": 1741.1985837747357,
+          "y1": 713.6521277071874,
+          "y2": 772.7712388781971
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (8).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (8).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 78,
+    "labels": [
+      {
+        "id": 190,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 147.3122807017544,
+          "x2": 463.4947368421053,
+          "y1": 860.519298245614,
+          "y2": 1007.8315789473684
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 191,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 373.6701754385965,
+          "x2": 546.1333333333333,
+          "y1": 873.0947368421052,
+          "y2": 962.9192982456141
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 192,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 538.1759648994437,
+          "x2": 590.0740434168273,
+          "y1": 930.6107504007553,
+          "y2": 960.4699188628116
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (80).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (80).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 79,
+    "labels": [
+      {
+        "id": 193,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 846.8601373267546,
+          "x2": 960.0628699694128,
+          "y1": 769.0872675722568,
+          "y2": 860.6864252831099
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 194,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 401.8264937315724,
+          "x2": 517.621655366047,
+          "y1": 735.385690678641,
+          "y2": 807.1095594522335
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 195,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1084.4994615766093,
+          "x2": 1136.3480414129413,
+          "y1": 744.8912636486352,
+          "y2": 782.9135555286119
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (81).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (81).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 80,
+    "labels": [
+      {
+        "id": 196,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 7.185964912280702,
+          "x2": 167.07368421052632,
+          "y1": 740.1543859649123,
+          "y2": 885.6701754385965
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 197,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1275.5087719298247,
+          "x2": 1401.2631578947369,
+          "y1": 698.8350877192983,
+          "y2": 820.9964912280702
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 198,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 812.1839796588702,
+          "x2": 927.6070062308413,
+          "y1": 776.9940325332692,
+          "y2": 853.0043183245673
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (82).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (82).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 81,
+    "labels": [
+      {
+        "id": 199,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 2.815195770048077,
+          "x2": 128.0914075371875,
+          "y1": 662.9786038463221,
+          "y2": 800.9231965786779
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 200,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 353.30706914103365,
+          "x2": 464.5073020579327,
+          "y1": 724.9129107873798,
+          "y2": 786.8472177284375
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 201,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 933.2373977709375,
+          "x2": 1061.328805308125,
+          "y1": 775.5864346482451,
+          "y2": 868.4878950598317
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 202,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 757.2876621429327,
+          "x2": 851.5967204395432,
+          "y1": 601.0442969052644,
+          "y2": 698.1685509719231
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 203,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 965.6121491264904,
+          "x2": 1075.4047841583654,
+          "y1": 617.9354715255529,
+          "y2": 698.1685509719231
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 204,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1558.2108587216105,
+          "x2": 1646.889525478125,
+          "y1": 620.7506672956009,
+          "y2": 736.1736938675721
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (83).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (83).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 82,
+    "labels": [
+      {
+        "id": 205,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1372.519298245614,
+          "x2": 1449.7684210526315,
+          "y1": 652.1263157894737,
+          "y2": 720.3929824561403
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (84).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (84).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 83,
+    "labels": [
+      {
+        "id": 206,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 159.88771929824563,
+          "x2": 276.659649122807,
+          "y1": 797.6421052631579,
+          "y2": 853.3333333333334
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 207,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 804.8280701754386,
+          "x2": 1074.3017543859648,
+          "y1": 697.0385964912281,
+          "y2": 928.7859649122807
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 208,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1110.2315789473685,
+          "x2": 1216.2245614035087,
+          "y1": 740.1543859649123,
+          "y2": 840.7578947368421
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 209,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1257.5438596491229,
+          "x2": 1349.1649122807019,
+          "y1": 759.9157894736842,
+          "y2": 817.4035087719299
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (85).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (85).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 84,
+    "labels": [
+      {
+        "id": 210,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 860.519298245614,
+          "x2": 1077.8947368421052,
+          "y1": 725.7824561403509,
+          "y2": 912.6175438596491
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 211,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1095.859649122807,
+          "x2": 1412.042105263158,
+          "y1": 537.1508771929824,
+          "y2": 869.5017543859649
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 212,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1446.1754385964912,
+          "x2": 2048,
+          "y1": 623.3824561403509,
+          "y2": 1029.3894736842105
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 213,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 123.9578947368421,
+          "x2": 273.06666666666666,
+          "y1": 815.6070175438597,
+          "y2": 873.0947368421052
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (86).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (86).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 85,
+    "labels": [
+      {
+        "id": 214,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 835.3684210526316,
+          "x2": 1000.6456140350878,
+          "y1": 749.1368421052632,
+          "y2": 878.4842105263158
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 215,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1067.7530309447347,
+          "x2": 1163.221120585323,
+          "y1": 763.0676384747724,
+          "y2": 851.0878629660948
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 216,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1015.6179748998745,
+          "x2": 1138.846289187726,
+          "y1": 709.5784251300456,
+          "y2": 828.7442675182976
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 217,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1322.3346033196367,
+          "x2": 1358.2197717660988,
+          "y1": 715.6721329794449,
+          "y2": 766.4530317244386
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (87).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (87).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 86,
+    "labels": [
+      {
+        "id": 218,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1618.5720232174767,
+          "x2": 1691.5978314343345,
+          "y1": 663.2343951750229,
+          "y2": 737.2605569290979
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 219,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 856.3026278579482,
+          "x2": 1012.3577796638359,
+          "y1": 744.2630316896185,
+          "y2": 884.3125269000305
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 220,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1071.3786383596525,
+          "x2": 1198.4235375862406,
+          "y1": 768.271516582832,
+          "y2": 857.3029813951654
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 221,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1006.3556584405326,
+          "x2": 1121.396315220514,
+          "y1": 698.246768977626,
+          "y2": 829.293082353083
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (88).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (88).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 87,
+    "labels": [
+      {
+        "id": 222,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1725.4710526464316,
+          "x2": 1793.7950741941763,
+          "y1": 663.5536329975874,
+          "y2": 745.7740657075852
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 223,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 821.0462928364564,
+          "x2": 847.6810808974416,
+          "y1": 739.9838943899798,
+          "y2": 770.0927852415282
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 224,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1054.9692140677175,
+          "x2": 1127.9253726695465,
+          "y1": 646.183119044771,
+          "y2": 716.8232091195579
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 225,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 861.5774920596947,
+          "x2": 971.5907470941987,
+          "y1": 749.2481684981485,
+          "y2": 845.3650123703994
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 226,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1092.0263105003926,
+          "x2": 1286.5760667719367,
+          "y1": 743.4579971805431,
+          "y2": 882.4221088030745
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 227,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1037.5987001149012,
+          "x2": 1117.5030642978568,
+          "y1": 768.9347509780072,
+          "y2": 827.994498417583
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (89).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (89).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 88,
+    "labels": [
+      {
+        "id": 228,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 794.8387288909685,
+          "x2": 939.1074022855621,
+          "y1": 744.0271206513632,
+          "y2": 861.0752896318826
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 229,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 982.6602093480809,
+          "x2": 1062.5070222960321,
+          "y1": 773.969675506845,
+          "y2": 824.7812837464502
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (9).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (9).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 89,
+    "labels": [
+      {
+        "id": 231,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 956.3470550811425,
+          "x2": 1093.3569272986497,
+          "y1": 773.0623253597091,
+          "y2": 984.4749096423526
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 232,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 443.6942219494105,
+          "x2": 519.0042841616827,
+          "y1": 895.5545952230433,
+          "y2": 937.2927019912905
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 233,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 598.8510971096338,
+          "x2": 640.589203877881,
+          "y1": 899.1839958115866,
+          "y2": 930.9412509613398
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (90).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (90).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 90,
+    "labels": [
+      {
+        "id": 234,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1120.4479164791346,
+          "x2": 1399.1522977138943,
+          "y1": 755.8800642579087,
+          "y2": 938.8677893110337
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 235,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 871.3030908298798,
+          "x2": 983.9109216318028,
+          "y1": 754.4724663728846,
+          "y2": 837.5207415893028
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 236,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1002.2096941371153,
+          "x2": 1157.0454614897596,
+          "y1": 720.6901171323077,
+          "y2": 830.4827521641827
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (91).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (91).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 91,
+    "labels": [
+      {
+        "id": 237,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 422.27936550721154,
+          "x2": 954.351366046298,
+          "y1": 274.48158757968747,
+          "y2": 522.2188153439182
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 238,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 954.351366046298,
+          "x2": 1245.724128246274,
+          "y1": 225.21566160384614,
+          "y2": 529.2568047690385
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 239,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 888.1942654501682,
+          "x2": 967.0197470115144,
+          "y1": 775.5864346482451,
+          "y2": 838.9283394743269
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 240,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 995.1717047119952,
+          "x2": 1120.4479164791346,
+          "y1": 677.0545826965625,
+          "y2": 837.5207415893028
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (92).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (92).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 92,
+    "labels": [
+      {
+        "id": 241,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1656.3649122807017,
+          "x2": 1810.8631578947368,
+          "y1": 538.9473684210526,
+          "y2": 657.5157894736842
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 242,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1857.5719298245615,
+          "x2": 2012.0701754385964,
+          "y1": 524.5754385964913,
+          "y2": 666.4982456140351
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 243,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 899.1177592508456,
+          "x2": 954.7874335969844,
+          "y1": 787.778410558568,
+          "y2": 825.5917742653793
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (93).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (93).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 93,
+    "labels": [
+      {
+        "id": 244,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 220.08441178218413,
+          "x2": 420.71384793721387,
+          "y1": 779.4149610628731,
+          "y2": 860.8826715015821
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 245,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 446.248503447854,
+          "x2": 542.3074456069288,
+          "y1": 794.0061927832388,
+          "y2": 841.4276958744277
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 246,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 643.2301316727923,
+          "x2": 787.9265128997531,
+          "y1": 724.6978421115014,
+          "y2": 831.7002080608505
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 247,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 862.0986074782793,
+          "x2": 964.2372295208398,
+          "y1": 756.3121775056272,
+          "y2": 848.7233117346107
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 248,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1095.558315004132,
+          "x2": 1149.0594979788066,
+          "y1": 676.0604030436153,
+          "y2": 747.8006256687472
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (94).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (94).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 94,
+    "labels": [
+      {
+        "id": 249,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 891.0178444873643,
+          "x2": 982.6602093480809,
+          "y1": 764.8961740354869,
+          "y2": 842.9282866891664
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 250,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 719.5286666786964,
+          "x2": 793.9313787438327,
+          "y1": 754.0079722698571,
+          "y2": 817.5224825693638
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 251,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1352.8590693794908,
+          "x2": 1375.5428230578862,
+          "y1": 695.9375628531653,
+          "y2": 728.6021681500545
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (95).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (95).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 95,
+    "labels": [
+      {
+        "id": 252,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1273.7122807017545,
+          "x2": 1471.3263157894737,
+          "y1": 386.2456140350877,
+          "y2": 603.6210526315789
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 253,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 882.0771929824562,
+          "x2": 986.2736842105263,
+          "y1": 758.119298245614,
+          "y2": 844.3508771929825
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (96).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (96).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 96,
+    "labels": [
+      {
+        "id": 254,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 874.8912280701754,
+          "x2": 970.1052631578947,
+          "y1": 763.5087719298245,
+          "y2": 842.5543859649123
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 255,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1358.1473684210525,
+          "x2": 1440.7859649122806,
+          "y1": 706.021052631579,
+          "y2": 761.7122807017544
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (97).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (97).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 97,
+    "labels": [
+      {
+        "id": 256,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1015.0175438596491,
+          "x2": 1106.638596491228,
+          "y1": 803.0315789473684,
+          "y2": 946.7508771929824
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 257,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 736.561403508772,
+          "x2": 788.659649122807,
+          "y1": 882.0771929824562,
+          "y2": 921.6
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 258,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1385.0947368421052,
+          "x2": 1430.0070175438595,
+          "y1": 822.7929824561404,
+          "y2": 878.4842105263158
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (98).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (98).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 98,
+    "labels": [
+      {
+        "id": 259,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 955.7333333333333,
+          "x2": 1104.842105263158,
+          "y1": 750.9333333333333,
+          "y2": 970.1052631578947
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 260,
+        "category": "sign",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1322.2175438596491,
+          "x2": 1492.8842105263159,
+          "y1": 736.561403508772,
+          "y2": 883.8736842105263
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  },
+  {
+    "name": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (99).jpg",
+    "url": "https://s3-eu-central-1.amazonaws.com/kristina-should-be-dataset-master/thumb-2048 (99).jpg",
+    "videoName": "",
+    "attributes": null,
+    "timestamp": 0,
+    "index": 99,
+    "labels": [
+      {
+        "id": 261,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 1070.7087719298245,
+          "x2": 1196.463157894737,
+          "y1": 858.7228070175439,
+          "y2": 964.7157894736843
+        },
+        "poly2d": null,
+        "box3d": null
+      },
+      {
+        "id": 262,
+        "category": "car",
+        "attributes": {
+          "Occluded": false,
+          "Traffic Light Color": [
+            0,
+            "NA"
+          ],
+          "Truncated": false
+        },
+        "manualShape": true,
+        "box2d": {
+          "x1": 923.3964912280702,
+          "x2": 962.9192982456141,
+          "y1": 855.1298245614036,
+          "y2": 880.280701754386
+        },
+        "poly2d": null,
+        "box3d": null
+      }
+    ]
+  }
+]
