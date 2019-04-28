@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import boto3
 import os
 
@@ -9,7 +11,7 @@ def upload_file(path, bucket):
 s3 = boto3.resource('s3')
 bucket_name = 'kristina-should-be-dataset-master'
 bucket = s3.Bucket(bucket_name)
-directory = './img'
+directory = './xml' # './img'
 
 for file in os.listdir(directory):
     upload_file(os.path.join(directory, file), bucket)

@@ -1,5 +1,7 @@
 # Sample bucket content
 img/*
+xml/*
 
-# generated itemlist
+# generated itemlist, BDD file
 item_list.yml
+bdd.json

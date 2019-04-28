@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import boto3
 
 def generate_key_url(bucket_location, bucket_name, key_name):
@@ -7,12 +9,15 @@ def generate_key_url(bucket_location, bucket_name, key_name):
         key_name
     )
 
+def is_img(file):
+    return file.key.endswith('.jpg') or file.key.endswith('.png') or file.key.endswith('.jpeg')
+
 s3 = boto3.resource('s3')
 bucket_name = 'kristina-should-be-dataset-master'
 bucket_location = boto3.client('s3').get_bucket_location(Bucket=bucket_name)
 
 files = s3.Bucket(bucket_name).objects.all()
-urls_list = [ generate_key_url(bucket_location, bucket_name, file.key) for file in files ]
+urls_list = [ generate_key_url(bucket_location, bucket_name, file.key) for file in files if is_img(file) ]
 
 print("Bucket item count: {0}".format(len(list(files))))
 
